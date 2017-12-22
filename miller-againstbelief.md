@@ -1,14 +1,18 @@
 ## Against Belief, or, the Liturgies of the Classroom
 
-What are compositionists to do with religion? In their introduction to a *Present Tense* bibliography on religion and composition, Paul Lynch and Matt Miller identify "the figure of the religious student in composition" as a signal concern of the field. 
+What are compositionists to do with religion? In their introduction to [a *Present Tense* bibliography on religion and composition](http://www.presenttensejournal.org/volume-6/twenty-five-years-of-faith-in-writing-religion-and-composition-1992-2017/), Paul Lynch and Matt Miller note that "the story of the problematic religious student is told again and again." Composition scholarship often depicts composition instructors committed to critical thinking and free inquiry at odds with religious students whose commitments to drawing on their faith in academic writing clash with academic norms. This encounter recurs in the literature from early narratives by Chris Anderson and Douglas Downs to Heather Thomson-Bunn's recent analytical work, which interviews composition instructors to reveal what Lynch and Miller call "familiar perceptions: the students don’t distinguish between faith and facts; they write only to like-minded audiences; they cite the Bible uncritically; they are intolerant toward those who do not share their attitudes." Lynch and Miller find the frequency of these conflicts decreasing over the past twenty-five years as composition instructors have found new ways to negotiate and understand religious discourses in the classroom, whether through pragmatism (DePalma, 2011), monster theory (Vander Lei, 2015) or casuistic stretching (Ringer, "Consequences" 2013). Yet Thomson-Bunn's 2017 study demonstrates that a sense of conflict persists between composition instructors and certain of their religious students. 
 
-Given the past and like future antagonism between composition and religion (particularly but not exclusively evangelical Christian religion), then, I will argue that the field needs a new understanding of *why* such antagonism takes place in the classroom. In particular, I will argue that composition, Christianity, and the modern university derive their self-understandings not just from differing (or sometimes rival) worldviews but from differing *liturgies*—kinaesthetic-aesthetic structures that inculcate a narrative about the world and the good life. My polemical title thus makes a case for understanding conflicts between composition and Christianity not on the basis of beliefs, but of practices, habits, and aesthetics.
-
-The need for such a new understand becomes apparent from looking at Patricia Bizzell’s “Faith-Based Worldviews as a Challenge to the Believing Game,” which argues for a non-antagonistic understanding of religion in the composition classroom to help instructors think through their own views. Far from reinforcing the conflict between composition and religion, Bizzell is a model of irenic dialogue. She sees students’ religious ideas as challenging Peter Elbow’s believing game, and thereby pushing instructors to consider more carefully the role of emotion in their work. Reflecting self-critically on her own profession, she writes:
+Though scholars like DePalma, Vander Lei, and Ringer have proposed invaluable means of improving relations between composition instructors and their problematic religious students, the field has yet to fully investigate the root causes of this conflict. DePalma identifies "disciplinary biases" as a challenge to taking religious seriously in the classroom (220), and Ringer observes how the pluralism of a secular university may threaten a religious student's belief in absolute truth ("Consequences," 275). These are certainly reasons that an encounter between a composition instructor and a religious student might be fraught, yet neither DePalma nor Ringer investigates them extensively. Moreover, it is not clear to me that either of these causes quite accounts for the intensity of emotion evinced by the literature on this subject. Patricia Bizzell’s “Faith-Based Worldviews as a Challenge to the Believing Game,” highlights this emotion in a discussion of Peter Elbow's "believing game." Reflecting self-critically on her own profession, she writes:
 
 > The academic can play the believing game up to a point. . . . But what if he is asked to inhabit a position that arouses emotion in him? This is disturbing, by the very fact that emotion of any kind is being aroused–emotion is taboo [in academic modes of thought]–but even more so if the emotion is repugnance or fear. (Bizzell 29)
 
-Bizzell argues that religious arguments, which can spark strong emotion in academics—as Downs well illustrates—challenge our habitual styles of thought in academe by provoking taboo emotions. This implies that composition must better theorize emotion in academic discourse. Bizzell thus uses the encounter with an obstreperous religious student not to attempt to “fix” the student, but to examine how religion challenges composition. The relationship between composition and religion here involves a search for understanding and mutual sympathy, yet note that conflict—“repugnance or fear”—continues to lie near its heart. For all that Bizzell insists that teachers should learn from their religious students rather than engage in conflict with them, hostile encounters still seem to hold a significant place in her thought. Why should that be? After all, if a student’s religious belief is merely a matter of “students’ rights to their own language,” as she claims, we ought not to find a given student’s desire to think with and within a particular religious tradition more troubling than a desire to think with and within a particular cultural tradition (34). Yet many within our field would likely still find it emotionally challenging to respond appropriately to a paper that assumed the truthfulness of, say, young-earth creationism. Why is that?
+Bizzell argues that the strong emotion religious arguments can prompt in academics challenges our habitual styles of thought in academe. This implies that composition must better theorize the role of emotion in academic discourse and its effects upon encounters between composition instructors and religious students. If a student’s religious belief is merely a matter of “students’ rights to their own language,” as Bizzell claims (34), or if we can accommodate such beliefs through pragmatism, as DePalma argues, we ought not to find a given student’s desire to think with and within a particular religious tradition especially troubling. Certainly not more troubling than a desire to think with and within a particular cultural tradition. Yet many within our field would likely still find it emotionally challenging to respond appropriately to a paper that assumed the truthfulness of, say, young-earth creationism. Why is that?
+
+In order to understand the sources of that emotion more fully, I will argue that we need an understanding of religion in the classroom as being about more than faith or worldview. In particular, I will argue that composition, Christianity, and the modern university derive their self-understandings not just from differing (or sometimes rival) worldviews but from differing *liturgies*—kinaesthetic-aesthetic structures that inculcate a narrative about the world and the good life. My polemical title thus makes a case for understanding conflicts between composition and Christianity not on the basis of beliefs, but of practices, habits, and aesthetics.
+
+
+RINGER DOGMA and BIZZELL: FAITH AND WORLDVIEW. WHY THAT'S NOT ENOUGH.
+
 
 Some of the answer, no doubt, has to do with very particular circumstances of our cultural, political, religious, and legal situation, as mentioned above. If we could transplant the interaction between compositionist and Christian student to a less polarized political context, for instance, we might find it much less loaded. Yet if we understand the liturgies of the classroom, I will argue, we will find that this emotional pitch to the discussion is not surprising. If the classroom is not merely a place of competing worldviews but competing liturgies, then a high degree of emotional involvement is not only to be expected, it is built in. Understanding these competing forces will not free us of them (not that we want that), but it may help us restructure our habits to pursue more constructive interactions.
 
@@ -49,48 +53,33 @@ An antistructural liturgy for the composition classroom, like other healthy litu
 
 Composition instructors who wish to forge a productive liturgy of the classroom must consider these and many other factors. Looking beyond beliefs and worldviews, we must begin with the insight that teachers and students alike are liturgical animals, subject to kinaesthetic-aesthetic regimes as well as ideas and values. By such habits of thought and action, we can begin to construct religion in the classroom not as an external, disruptive force, but merely another aspect of life together as a community of human persons. And only through that task of liturgically enabled understanding can we achieve a more helpful, irenic encounter between composition and faith.
 
+
 ### Note
 
 [^1] I borrow the phrase “liturgical audit” from Smith’s *You Are What You Love: the Spiritual Power of Habit,* 53.
 
 ### Works Cited
 
-Bizzell, Patricia. “Faith-Based Worldviews as a Challenge to the
-Believing Game.” *JAEPL* vol. 14, Winter 2008-2009, pp. 29-35.
+Anderson, Chris. “The Description of Embarrassment: When Students Write about Religion.” *ADE Bulletin* 94 (1998): 12-15. Print.
 
-Burke, Timothy. “Should I Go to Graduate School?” *Easily Distracted,*
-http://www.swarthmore.edu/SocSci/tburke1/gradschool.html. Accessed 17
-Mar. 2017.
+Bizzell, Patricia. “Faith-Based Worldviews as a Challenge to the Believing Game.” *JAEPL* vol. 14, Winter 2008-2009, pp. 29-35.
 
-Downs, Douglas. “True Believers, Real Scholars, and Real True Believing
-Scholars: Discourses of Inquiry and Affirmation in the Composition
-Classroom.” *Negotiating Religious Faith in the Composition Classroom,*
-edited by Elizabeth Vander Lei and Bonnie Leonore Kyburz, Heinemann,
-2005, pp. 39-55.
+Burke, Timothy. “Should I Go to Graduate School?” *Easily Distracted,* http://www.swarthmore.edu/SocSci/tburke1/gradschool.html. Accessed 17 Mar. 2017.
 
-Jaschik, Scott. “Shouting Down a Lecture.” *Insider Higher Ed,* 3 Mar.
-2017,
-https://www.insidehighered.com/news/2017/03/03/middlebury-students-shout-down-lecture-charles-murray.
-Accessed 3 Mar. 2017.
+DePalma, Michael-John. “Reimagining Rhetorical Education: Fostering Writers’ Civic Capacities through Engagements with Religious Rhetorics.” *College English* 79.3 (2017): 251-275. Print.
 
-Kavanagh, Aidan. *Elements of Rite: a Handbook of Liturgical Style.*
-Pueblo Publishing, 1982.
+Downs, Douglas. “True Believers, Real Scholars, and Real True Believing Scholars: Discourses of Inquiry and Affirmation in the Composition Classroom.” *Negotiating Religious Faith in the Composition Classroom,* edited by Elizabeth Vander Lei and Bonnie Leonore Kyburz, Heinemann, 2005, pp. 39-55.
 
-Quintana, Chris. “A Professor Reflects on Her Time in the Eye of a
-Social-Media Storm.” *The Chronicle of Higher Education,* 16 Apr. 2017,
-http://www.chronicle.com/article/A-Professor-Reflects-on-Her/239808.
-Accessed 25 Apr. 2017.
+Kavanagh, Aidan. *Elements of Rite: a Handbook of Liturgical Style.* Pueblo Publishing, 1982.
 
-Smith, Gregory A. and Jessica Martínez. “How the Faithful Voted: a
-Preliminary 2016 Analysis.” *FactTank: News in the Numbers,* Pew
-Research, 9 Nov. 2016,
-http://www.pewresearch.org/fact-tank/2016/11/09/how-the-faithful-voted-a-preliminary-2016-analysis/\#.
-Accessed 25 Apr. 2017.
+Lynch, Paul and Matthew Miller. "Twenty-five Years of Faith in Writing: Religion and Composition, 1992-2017." *Present Tense* 6.2, http://www.presenttensejournal.org/volume-6/twenty-five-years-of-faith-in-writing-religion-and-composition-1992-2017/. Accessed 22 Dec. 2017.
 
-Smith, James K.A. *Imagining the Kingdom: How Worship Works.* Baker
-Academic, 2013.
+Ringer, Jeffrey M. “The Consequences of Integrating Faith into Academic Writing.” *College English* 75.3 (2013): 270-97.
 
-—. *You Are What You Love: The Spiritual Power of Habit.* Brazos Press,
-2016.
+Smith, James K.A. *Imagining the Kingdom: How Worship Works.* Baker Academic, 2013.
+
+—. *You Are What You Love: The Spiritual Power of Habit.* Brazos Press, 2016.
 
 Taylor, Charles. *A Secular Age.* Belknap, 2007.
+
+Vander Lei, Elizabeth. “‘Where the Wild Things Are’: Christian Students in the Figured Worlds of Composition Research.” *Mapping Christian Rhetorics: Connecting Conversations, Charting New Territories.* Eds. Michael-John DePalma and Jeffrey M. Ringer. New York: Routledge, 2015. 66-85. Print.
