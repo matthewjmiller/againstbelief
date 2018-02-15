@@ -26,16 +26,22 @@ In order to better position ourselves for encounters with "the problematic relig
 
 The university, of course, does not make up the sole influence on a classroom's liturgical situation. Students and faculty also bring to their work a variety of other liturgically formed identities, including professional identities as well as religious ones. For faculty, our visions of ourselves as teachers have also been shaped by particular kinaesthetic and aesthetic experiences, which may or may not overlap with those of the university in which we work: conferences, graduate school experiences, experiences of social justice advocacy, and so forth. Much like religious students, then, we may find ourselves working in a context that has differing liturgical priorities from our other formative experiences. 
 
-A liturgical audit of the classroom, then, will reveal at least two liturgies at work in addition to any formal religious liturgies shaping students. And there are likely more: as Smith's example of the mall suggests, any number of institutions operate liturgically, including those of the marketplace in which students and teachers alike participate. Composition teachers should enter the classroom understanding that encounters with problematic religious students arise not out of a simple clash of worldviews (the university vs. the church), but due to a complex, liturgically formed set of habits and ways of life. 
+A liturgical audit of the classroom, then, will reveal at least two liturgies at work in addition to any formal religious liturgies shaping students. And there are likely more: as Smith's example of the mall suggests, any number of institutions operate liturgically, including those of the marketplace in which students and teachers alike participate. Composition teachers should enter the classroom understanding that encounters with "problematic" religious students arise not out of a simple clash of worldviews (the university vs. the church), but due to a complex, liturgically formed set of habits and ways of life. 
 
-we are like them
+Understanding the liturgical and habitual roots of conflict between teachers and religious students can help diffuse that strife in two ways. First, understanding students' concerns as arising from a set of habits rather than merely a worldview ought to deepen our sympathy. If, in my teaching, I challenge a student's perspective, I must understand that I am not merely challenging a casually held idea or belief (much as I might argue with someone over, say, which is the best coffee shop in town), but am instead exerting pressure on the very foundation of that student's way of life. Though exerting that pressure might be necessary and my student may thank me for it eventually, it is a more serious matter than the "worldview" frame would allow. I must thus proceed carefully, acknowledging that I am not merely asking my students to change their worldviews—I am asking them, in a very real sense, to change their lives. 
+
+Catholic liturgist Aidan Kavanagh argues that “Liturgy . . . exists to undercut and overthrow the very structures it uses” (40). This claim might seem counterintuitive given the importance that the church affords to those very structures. Yet Kavanagh here channels a well-established theme in liturgical scholarship, which views the liturgy essentially as *play*: not a serious, productive, disciplined activity, but a childlike act of creativity and pleasure.[^4] Kavanagh recognizes that social structures tend to become oppressive on their own, striving to perpetuate the structure over doing justice to participants. Liturgy, however, focuses upon acts of play—music, prayer, ritual washings and meals—that aim not at perpetuating a social structure, but rather cultivate an orientation toward things that can properly be termed purposeless, just as a child has no purpose when she plays but to carry out the play itself. 
+
+
+
+ yet the Christian liturgy undercuts those oppressive tendencies with its spirit of high play and commitment to memory. This liturgical antistructuralism ought to characterize any liturgy, not just a Christian one, which seeks the social good rather than oppression or profit. 
 
 the liturgical audit will allow us to craft a classroom liturgy that aims at peaceful discourse
 
 
 ***
 
-Additionally, understanding our own perspective as one which arises from cultural liturgies can empower us as teachers to proceed with greater teacherly (I almost wrote pastoral) sensitivity. Catholic liturgist Aidan Kavanagh argues that “Liturgy . . . exists to undercut and overthrow the very structures it uses” (40). By this Kavanagh means that social structures tend to become oppressive on their own, yet the Christian liturgy undercuts those oppressive tendencies with its spirit of high play and commitment to memory. This liturgical antistructuralism ought to characterize any liturgy, not just a Christian one, which seeks the social good rather than oppression or profit. We cannot trust the archbishops of the university or the market to so check their own practices—the liturgies of the iPhone aim not to undercut themselves, but rather quite the opposite—yet for the health of our own community of teachers we must maintain such liturgical antistructuralism in the habits we build into our teaching practice. Even where we believe that our methodologies lead to better learning or even to justice, we must create habits that undercut the tendency of our own practices to become oppressive.
+We cannot trust the archbishops of the university or the market to so check their own practices—the liturgies of the iPhone aim not to undercut themselves, but rather quite the opposite—yet for the health of our own community of teachers we must maintain such liturgical antistructuralism in the habits we build into our teaching practice. Even where we believe that our methodologies lead to better learning or even to justice, we must create habits that undercut the tendency of our own practices to become oppressive.
 
 An antistructural liturgy for the composition classroom, like other healthy liturgies, will necessarily be contextual and likely quite detailed. Characterizing such a liturgy in full thus not only lies beyond the scope of this essay, but outside its purview. However, compositionists who seek to conduct a liturgical audit of their classrooms in pursuit of a more intentional classroom liturgy might ask themselves some of the following questions:
 
@@ -52,7 +58,9 @@ Composition instructors who wish to forge a productive liturgy of the classroom 
 
 [^1] The example of the mall as liturgical space is drawn from Smith's *Desiring the Kingdom,* pp. 19-28. 
 [^2] I borrow the phrase “liturgical audit” from Smith’s *You Are What You Love: the Spiritual Power of Habit,* 53.
-[^3] Though examining how the liturgies of the smartphone reshape religious or professional identities lies beyond my scope in this essay, one fascinating treatment of the theological import of smartphones and e-readers is Alan Jacobs, "Christianity and the Future of the Book," *The New Atlantis* fall 2011, https://www.thenewatlantis.com/publications/christianity-and-the-future-of-the-book. 
+[^3] Though examining how the liturgies of the smartphone reshape religious or professional identities lies beyond my scope in this essay, one fascinating treatment of the theological import of smartphones and e-readers is Alan Jacobs, "Christianity and the Future of the Book," *The New Atlantis* fall 2011, https://www.thenewatlantis.com/publications/christianity-and-the-future-of-the-book.
+[^4] For more on liturgy as play, see the work of Romano Guardini, one of the most important liturgical scholars of the twentieth century, who writes that the Catholic liturgy "is in the highest sense the life of a child, in which everything is picture, melody and song" (102). Or see the more recent work of Marva J. Dawn, who describes Christian liturgy as "a royal waste of time."
+
 
 ### Works Cited
 
@@ -64,9 +72,13 @@ Burke, Timothy. “Should I Go to Graduate School?” *Easily Distracted,* http:
 
 Caswell, Nicole I. “Dynamic Patterns: Emotional Episodes within Teachers’ Response Practices.” *The Journal of Writing Assessment* 7.1 (2014), http://journalofwritingassessment.org/article.php?article=76. Web. Accessed 23 Dec. 2017.
 
+Dawn, Marva J. *"A Royal Waste of Time": the Splendor of Worshiping God and Being Church for the World. Eerdmans, 1999. Print.
+
 DePalma, Michael-John. “Reimagining Rhetorical Education: Fostering Writers’ Civic Capacities through Engagements with Religious Rhetorics.” *College English* 79.3 (2017): 251-275. Print.
 
 Downs, Douglas. “True Believers, Real Scholars, and Real True Believing Scholars: Discourses of Inquiry and Affirmation in the Composition Classroom.” *Negotiating Religious Faith in the Composition Classroom,* edited by Elizabeth Vander Lei and Bonnie Leonore Kyburz, Heinemann, 2005, pp. 39-55. Print.
+
+Guardini, Romano. *The Spirit of the Liturgy.* Trans. Ada Lane. Benzinger Brothers, 1931. Print.
 
 Jacobs, Alan. "Christianity and the Future of the Book." *The New Atlantis* fall 2011, https://www.thenewatlantis.com/publications/christianity-and-the-future-of-the-book. Web. Accessed 26 Dec. 2017.
 
